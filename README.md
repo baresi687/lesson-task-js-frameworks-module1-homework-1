@@ -24,4 +24,4 @@ Styling is not important but you can place any styles in `src/App.css`, making s
 
 Example:
 
-<img src="example.png" style="max-width: 350px">
+<img src="src/images/example.png" style="max-width: 350px">
