@@ -1,6 +1,6 @@
 function ProfileName({name}) {
   return (
-    <h4>{name}</h4>
+    <h4>{name ? name : 'Unknown user'}</h4>
   )
 }
 
